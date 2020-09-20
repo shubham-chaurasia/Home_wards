@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_nav_dashboard"
+        android:title="@string/dashbord"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        app:cnb_backgroundColor="@color/lightred"
+    />
+
+    <item
+        android:id="@+id/bottom_nav_manage"
+        android:title="@string/Manage"
+        android:icon="@drawable/ic_equalizer_black_24dp"
+        app:cnb_backgroundColor="@color/lightyellow"
+        />
+
+    <item
+        android:id="@+id/bottom_nav_profile"
+        android:title="@string/Profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        app:cnb_backgroundColor="@color/lightgreen"
+        />
+</menu>

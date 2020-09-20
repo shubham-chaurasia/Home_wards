@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Homewards</string>
+    <string name="dashbord">Dashbord</string>
+    <string name="title">HomeWards</string>
+    <string name="slogan">All In One Services</string>
+    <string name="comment">Keep your Home Maintained</string>
+    <string name="login">Login</string>
+    <string name="sign_up">SignUp</string>
+    <string name="Lets_go">Let\'s Go </string>
+    <string name="Manage">Manage</string>
+    <string name="Profile">Profile</string>
+    <string name="username">Enter Username</string>
+    <string name="email">Email</string>
+    <string name="password">Enter password</string>
+    <string name="image_content_description">Home Image</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="username2">Username</string>
+    <string name="password2">Password</string>
+    <string name="otp">OTP \nVarification</string>
+    <string name="otp_description">Enter One Time Password </string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="request_otp">Request OTP</string>
+    <string name="NOTE_otp"> NOTE : Do not share this OTP to anyone.</string>
+    <string name="verify_code">Verify Code </string>
+    <string name="skip">Skip</string>
+    <string name="call_now">Call Now</string>
+
+
+</resources>

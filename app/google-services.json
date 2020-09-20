@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773139803672",
+    "firebase_url": "https://homewards-e2553.firebaseio.com",
+    "project_id": "homewards-e2553",
+    "storage_bucket": "homewards-e2553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773139803672:android:bd764b65b516fa965cdd6d",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773139803672-2lo3a30ep0j1smomigfjo26d8db5jbbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZYEkrhAKNvlupET2o_bpB70VYZUVEss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773139803672-2lo3a30ep0j1smomigfjo26d8db5jbbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
